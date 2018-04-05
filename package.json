@@ -1,0 +1,15 @@
+{
+  "name": "machinlearning",
+  "version": "1.0.0",
+  "description": "machine learning tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zakaria el messoudi",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.1.2",
+    "underscore": "^1.8.3"
+  }
+}
